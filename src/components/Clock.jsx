@@ -6,6 +6,7 @@ export function Clock() {
   useEffect(() => {
     const interval = setInterval(() => {
       setDate(new Date());
+      console.log("ckik");
     }, 1000);
 
     return () => clearInterval(interval);
