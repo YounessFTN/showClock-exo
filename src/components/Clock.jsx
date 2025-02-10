@@ -14,9 +14,9 @@ export function Clock() {
 
   return (
     <div className="text-center">
-      <h1 className="text-4xl font-bold text-gray-800">
+      <h2 className="text-xl font-bold text-black">
         {date.toLocaleTimeString("fr-MA")}
-      </h1>
+      </h2>
     </div>
   );
 }
