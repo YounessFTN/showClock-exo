@@ -1,8 +1,8 @@
 # showClock
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**showClock** est une application révolutionnaire qui vous permet de voir l'heure
 
-Currently, two official plugins are available:
+### Plugins officiels disponibles :
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) utilise [Babel](https://babeljs.io/) pour un rafraîchissement rapide.
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) utilise [SWC](https://swc.rs/) pour un rafraîchissement rapide.
